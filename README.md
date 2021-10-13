@@ -1,8 +1,13 @@
-### Olá, Mundo! from Alberto Damaso 👋
+### Hey there 👋
 
-- 🔭 Hoje trabalho com aplicação Mobile
-- 🌱 Estudando Typescript, React Native e UX/UI Design no Figma.
-- 😄 Pronouns: ele/dele
+I'm Alberto Damaso👨‍🚀.Currently I'm a mobile developer.I also have experience with web and desktop development.
+Currently my stack is:<br>
+📱 Mobile applications for Android and iOS with React Native<br>
+💻 Web front-end development with ReactJs<br>
+📡 API with NodeJs<br>
+💾 Database: Postgres, Firebase (Cloud Firestore/Real Time), MySQL<br>
+🎓 I am graduated in Analysis and systems development<br>
+
 
 <div>
   <a href="https://github.com/AlbertoDamaso">
