@@ -27,3 +27,4 @@ Currently my stack is:<br>
 </div>
 
 ![Snake animation](https://github.com/AlbertoDamaso/AlbertoDamaso/blob/output/github-contribution-grid-snake.svg) 
+
