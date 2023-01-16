@@ -2,10 +2,11 @@
 
 I'm Alberto Damaso👨‍🚀.Currently I'm a mobile developer.I also have experience with web and desktop development.
 Currently my stack is:<br>
-📱 Mobile applications for Android and iOS with React Native<br>
+🖋️ Designer prototype with Figma and PhotoShop create logo<br>
+📱  Mobile applications for Android and iOS with React Native<br>
 💻 Web front-end development with ReactJs<br>
-📡 API with NodeJs<br>
-💾 Database: Postgres, Firebase (Cloud Firestore/Real Time), MySQL<br>
+📡 API with NodeJs and Python<br>
+💾 Database: Postgres, MySQL and Firebase (Cloud Firestore/Real Time)<br>
 🎓 I am graduated in Analysis and systems development<br>
   
 <div style="display: inline_block"><br>
